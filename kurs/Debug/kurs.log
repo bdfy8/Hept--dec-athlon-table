@@ -1,0 +1,5 @@
+﻿  vvod.cpp
+C:\Users\вави\source\repos\kurs\kurs\vvod.cpp(47): warning C4715: add: значение возвращается не при всех путях выполнения
+C:\Users\вави\source\repos\kurs\kurs\vvod.cpp(26): warning C4715: write: значение возвращается не при всех путях выполнения
+C:\Users\вави\source\repos\kurs\kurs\vvod.cpp(125): warning C4715: unadd: значение возвращается не при всех путях выполнения
+  kurs.vcxproj -> C:\Users\вави\source\repos\kurs\Debug\kurs.exe
